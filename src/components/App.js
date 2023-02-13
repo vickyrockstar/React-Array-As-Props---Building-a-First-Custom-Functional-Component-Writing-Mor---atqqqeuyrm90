@@ -12,7 +12,7 @@ const Join = (props) =>{
 }
 const App = () => {
   return (
-    <div id="main">
+    <div id="root">
       <Join  words={arr} />
     </div>
   )
